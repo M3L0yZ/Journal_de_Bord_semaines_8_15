@@ -1,10 +1,4 @@
-# Cours 8
 ## Retour sur la sortie
 
-### Oeuvre préférée
-Nommez l'oeuvre que vous avez préférée lors de notre visite. En 2 à 3 lignes, expliquez pourquoi. 
-
-
-### Oeuvre la moins appréciée
-Nommez l'oeuvre que vous avez le moins aimé lors de notre visite. En 2 à 3 lignes, expliquez pourquoi. 
+J'étais malheureusement absente lors de cette sortie. Je dois donc m'abstenir de commenter sur ce que j'ai aimé ainsi que sur ce que je n'ai pas aimé, par soucis d'honnêteté et d'équité envers mes collègues de classe.
 
