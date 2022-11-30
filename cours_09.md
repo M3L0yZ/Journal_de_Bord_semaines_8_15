@@ -1,8 +1,5 @@
-# Cours 09 
-## Retour sur la conférence d'Eidos
-
 ### Intérêt
-Quelle partie de la conférence t'a intéressé le plus? Pourquoi? (2 à 3 lignes) 
+J'ai beaucoup aimé l'authenticité du conférencier à propos de son parcours personnel et professionnel. En tant qu'étudiante plus âgée et de retour sur les bancs d'école pour changer de métier, j'ai bien aimé qu'il nous raconte son expérience en tant que pilote ainsi que son échec dans le domaine. Cela m'a rejoins car moi aussi j'ai vécu en quelque sorte un échec dans mon ancien domaine; je m'étais blessée en travaillant en horticulture et j'ai dû prendre une pause et un moment d'introspection pour savoir quoi choisir pour la suite. De plus, j'ai perçu le conférencier comme étant un homme timide et réservé mais avec un C.V. très bien garni, tant chez Eidos que chez EA entre autre. En tant que fille timide et réservée avec les inconnus, cela me rassure que moi aussi je peux prendre ma place dans les domaines du multimédia. En somme, j'ai trouvé la présentation très intéressante, inspirante et pertinente.
 
 ### Travail
-Suite à la conférence, aimerais-tu travailler dans le monde du jeu vidéo? Si oui, qu'est-ce qui t'a motivé dans la conférence et si non, pourquoi? (2 à 3 lignes)
+Bien que mon copain soit un grand amateur de jeux vidéo que je suis une «casual retro gamer», le monde du jeu vidéo ne m'intéresse pas vraiment côté emploi (pour le moment du moins). Les seuls aspects du domaine qui me semblent intéressant, selon le type de jeu, sont la modélisation de texture 3D, la conception sonore ainsi que l'animation 2D. J'aimerais peut-être m'occuper de l'environnement, des décors et des vêtements, mais certainement pas pour une grosse compagnie, puisque j'aimerais avoir du plaisir, de la versatilité dans mes tâches et pouvoir mettre ma touche personnelle dans le projet. 
