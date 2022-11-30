@@ -1,8 +1,5 @@
-# Cours 10
-## Retour sur la visite de SidLee et PixMob
-
 ### Intérêt
-Laquelle des conférences as-tu préféré et pourquoi? (2 à 3 lignes) 
+La visite dans les locaux de SidLee a été ma préféré! J'ai eu une bonne première impression de l'entreprise, surtout par la présentation de leurs divers réalisations, par la visite des lieux, par la simplicité et ouverture d'esprit des trois conférenciers, par l'athmosphère, par le fonctionnement des équipes de travail d'un projet, par la liberté d'expression que j'ai pu observer, par l'aspect 5 à 7 et les activités de groupe en dehors des heures de travail... Bref, j'aime beaucoup qu'une si grande entreprise offre ce genre d'environnement à ses employés. Selon moi, cela favorise la créativité, le sentiment d'appartenance ainsi que le travail d'équipe. Bref, j'ai perçu SidLee comme une «famille» de gens talentueux, créatifs, enthousiastes et persévérants.
 
 ### Travail
-Te verrais-tu travailler dans une des deux entreprises? Si oui, laquelle et pour quelle raison? Si non, pourquoi? (2 à 3 lignes)
+En toute honnêteté, si ce n'était pas du fait que je préfère habiter à l'extérieur de la région de Montréal, je me verrais travailler chez SidLee. Le fonctionnement, les lieux, les valeurs et identité de l'entreprise m'ont charmé. Bien que j'ai lu des commentaires négatifs de la part d'anciens employés sur le web après notre visite (surtout à propos du salaire) je priorise surtout les conditions de travail avant l'argent. 
