@@ -3,19 +3,15 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Deux choix de parcours immersifs et interactifs sous forme de labyrinthe à thématique science-fiction.  
 
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+Deux labyrinthes adaptés selon l’âge des visiteurs, avec deux fins sont possible dans le parcours pour adultes (13 ans +). Indices, choix, et jeux interactifs en équipe pour gagner des indices supplémentaires pour guider les visiteurs dans l'histoire. Acteurs projeté en hologramme pour interagir avec le public.
 
-### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
-
-### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![Scénarimage](Images/scenarimage.png)
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+Projections lumineuses, ambiance et effets sonores, planchers et murs interactifs, hologrammes, animations 2D et 3D, éléments mobiles, éléments interactifs
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+Concevoir les animations et les modélisations, installer les décors, les projecteurs, les structures et les hauts-parleurs, programmer les interactions
